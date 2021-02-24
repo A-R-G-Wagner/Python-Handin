@@ -1,0 +1,6 @@
+Nicolas,Art,Lise,25,4, Physics,Lise,15,4, Art,Lise,10,10,Image_url
+Nicolas,English,Arne,25,4, English,Tess,15,4, Gym,Nicolaj,10,-3,Image_url
+Benjamin,Computer Science,kurt,25,-3, Gym,Nicolaj,15,-3, Physics,Nicolaj,10,0,Image_url
+Hans,English,Arne,25,7, Chemistry,Arne,15,7, Math,Arne,10,12,Image_url
+Bo,Math,Nicolaj,25,10, Chemistry,Lise,15,4, Art,Arne,10,10,Image_url
+Christoffer,Physics,Lise,25,2, Chemistry,Lise,15,4, Gym,Nicolaj,10,4,Image_url
